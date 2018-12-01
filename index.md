@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Resume](https://drive.google.com/file/d/1-93kR9BIV9Co3ZejOmEKipZogmMFd1Es/view) and ![Image](src)
 
 For more details see GitHub Flavored Markdown.
 Jekyll Themes
