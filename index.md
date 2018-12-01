@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Resume](/Resume/) and ![Image](src)
+[Resume](/Resume.pdf) and ![Image](src)
 
 For more details see GitHub Flavored Markdown.
 Jekyll Themes
